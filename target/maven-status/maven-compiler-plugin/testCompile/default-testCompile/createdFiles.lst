@@ -1,0 +1,4 @@
+br/gov/ce/esp/processoseletivo/InMemoryH2Test.class
+br/gov/ce/esp/processoseletivo/ProcessTestCoverageProcessEnginePlugin.class
+br/gov/ce/esp/processoseletivo/ProcessScenarioTest.class
+br/gov/ce/esp/processoseletivo/ProcessUnitTest.class
